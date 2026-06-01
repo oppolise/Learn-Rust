@@ -1,6 +1,6 @@
 fn main() {
-    let x = 20;
-    let y = 30;
+    let x = 10;
+    let y = 20;
 
     let result = sum(x, y);
     println!("Result of sum is {}", result)
