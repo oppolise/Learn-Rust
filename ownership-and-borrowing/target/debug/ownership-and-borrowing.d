@@ -1,1 +1,0 @@
-/Users/oppolise/Documents/Project/project\ rust/learn-rust/ownership-and-borrowing/target/debug/ownership-and-borrowing: /Users/oppolise/Documents/Project/project\ rust/learn-rust/ownership-and-borrowing/src/main.rs
